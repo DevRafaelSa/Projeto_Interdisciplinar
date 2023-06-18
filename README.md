@@ -1,7 +1,9 @@
 # JAVA - Projeto Final CRUD (BD + GUI) pelo NetBeans
-**Rafael Sá**
+**Rafael Nunes de Sá Santos**
+**Thiago Santos Alves**
+**André D'Albuquerque Torreão**
 
-Projeto proposto na cadeira de Técnicas de Programação do curso de Análise e Desencolvimento de Sistema do UNIPÊ-PB.
+Projeto Interdisciplinar do curso de Análise e Desencolvimento de Sistema do UNIPÊ-PB.
 
 ## Contém no Sistema
 
